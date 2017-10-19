@@ -1,4 +1,4 @@
-# Kotlin-MaterialViewSampleAppByHp [![Build Status](https://travis-ci.org/hypeapps/MaterialTimelineView.svg?branch=master)](https://travis-ci.org/hypeapps/MaterialTimelineView) [![Download](https://api.bintray.com/packages/hypeapps/maven/MaterialTimelineView/images/download.svg)](https://bintray.com/hypeapps/maven/MaterialTimelineView/_latestVersion)  [![Platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-MaterialTimelineView-green.svg?style=flat )]( https://android-arsenal.com/user/HassanUsman )
+# Kotlin-MaterialViewLibraryByHp [![Build Status](https://travis-ci.org/hypeapps/MaterialTimelineView.svg?branch=master)](https://travis-ci.org/hypeapps/MaterialTimelineView) [![Download](https://api.bintray.com/packages/hypeapps/maven/MaterialTimelineView/images/download.svg)](https://bintray.com/hypeapps/maven/MaterialTimelineView/_latestVersion)  [![Platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-MaterialTimelineView-green.svg?style=flat )]( https://android-arsenal.com/user/HassanUsman )
 With MaterialTimelineView you can easily create a material looking timeline.
 
 
@@ -15,7 +15,7 @@ dependencies {
 ```
 
 # Usage
-#### Kotlin-MaterialViewSampleAppByHp extends from ConstraintLayout, so it has all of its possibilities.
+#### Kotlin-MaterialViewLibraryByHp extends from ConstraintLayout, so it has all of its possibilities.
 #### In your xml layout add:
 ```xml
 <pl.hassanUsman.materialtimelineview.MaterialTimelineView
